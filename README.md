@@ -15,4 +15,4 @@ Tech Stack
 * Java 8
 * Spock 1.1
 
-To take a look in other tutorials, please see https://github.com/topera/hello-world-index
+To take a look in other projects, please see https://github.com/topera/index
