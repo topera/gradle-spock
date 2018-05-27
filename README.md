@@ -8,7 +8,7 @@ This hello world shows a unit test executed in Spock.
 ## How to download this source code
 * Install [Gradle](https://gradle.org/install)
 * Use the `Clone or download` button above the get the url of this repository
-* In IntelliJ IDEA: File → New → Project From Version Control -> Git -> put the url of this repository
+* In IntelliJ IDEA: File → New → Project From Version Control → Git → put the url of this repository
 
 ## How to test
 * `$ cd gradle-spock`
